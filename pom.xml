@@ -79,7 +79,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-run-v2</artifactId>
-        <version>0.3.6-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-run-v2:current} -->
+        <version>0.4.0</version><!-- {x-version-update:proto-google-cloud-run-v2:current} -->
       </dependency>
 
       <dependency>
