@@ -11,7 +11,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-run-parent</artifactId>
-    <version>0.3.6-SNAPSHOT</version><!-- {x-version-update:google-cloud-run:current} -->
+    <version>0.4.0</version><!-- {x-version-update:google-cloud-run:current} -->
   </parent>
   <properties>
     <site.installationModule>google-cloud-run</site.installationModule>
